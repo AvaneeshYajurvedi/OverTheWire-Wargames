@@ -148,7 +148,5 @@ This level focused on simple Linux enumeration and hidden file discovery.
 
 By checking hidden directories and inspecting backup files, we were able to retrieve the password for `leviathan1`.
 
-A tiny forgotten bookmark became the key to the next door.
-
 ---
 
