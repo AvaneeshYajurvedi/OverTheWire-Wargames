@@ -258,8 +258,5 @@ This level introduced basic binary analysis using Linux tools like `strings` and
 
 By tracing the `strcmp()` call, we discovered the hardcoded password used by the program. Since the binary was running with SUID permissions, successful authentication granted us a shell as `leviathan2`, allowing access to the next password.
 
-Some doors are locked with steel.  
-Others are locked with terrible coding practices.
-
 ---
 
